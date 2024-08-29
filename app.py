@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SGtEEmQWKzFitwmGWKjce4I5Y3B5ViQg
 """
 
-# Install the Python SDK
+# Install the Python SDK #souparn's chat bot
 #!pip install -q -U google-generativeai
 
 # The library and API Key is added
